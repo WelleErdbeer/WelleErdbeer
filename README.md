@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandro (@WelleErdbeer)
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning scratch (please don't laugh, it's part of CS50x)
+- 🌱 Week 1 of CS50 almost done. Only credit.c remains. Can I do it faster than Santa delivers his presents?
 
 <!---
 WelleErdbeer/WelleErdbeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
